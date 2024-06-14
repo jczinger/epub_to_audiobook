@@ -2,6 +2,7 @@
 .gitignore
 .gitattributes
 .DS_Store
+.idea
 *.pyc
 *.pyo
 *.pyd
@@ -25,5 +26,9 @@ __pycache__
 .github
 README.md
 LICENSE
+.vscode
+docker-compose.example.yml
 examples/
 audiobook_output/
+private_examples/
+tests

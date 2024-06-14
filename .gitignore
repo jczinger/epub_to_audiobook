@@ -3,10 +3,12 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.pyc
 
 # Virtual environment
 venv/
+.idea
+.history/
+.run/
 
 # Temporary files
 *.tmp
@@ -20,5 +22,12 @@ venv/
 .DS_Store
 Thumbs.db
 
+.vscode
+
 # audio files
 audiobook_output/
+
+private_examples/
+
+# custom
+scripts/
